@@ -1,4 +1,4 @@
-import { component$, useStore, useStyles$, useClientEffect$ } from '@builder.io/qwik';
+import { component$, useStore, useClientEffect$ } from '@builder.io/qwik';
 import { DocumentHead } from '@builder.io/qwik-city';
 import moment from 'moment';
 
